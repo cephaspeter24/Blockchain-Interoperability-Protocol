@@ -5,10 +5,6 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
-[contracts.data-validation-consensus]
-path = 'contracts/data-validation-consensus.clar'
-clarity_version = 2
-epoch = 2.5
 
 [contracts.dimensional-bridge-nft]
 path = 'contracts/dimensional-bridge-nft.clar'
@@ -17,6 +13,11 @@ epoch = 2.5
 
 [contracts.dimensional-translation]
 path = 'contracts/dimensional-translation.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.inter-dimensional-transactions]
+path = 'contracts/inter-dimensional-transactions.clar'
 clarity_version = 2
 epoch = 2.5
 [repl.analysis]

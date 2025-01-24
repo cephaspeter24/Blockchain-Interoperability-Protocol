@@ -7,3 +7,5 @@ U
 %contracts/dimensional-bridge-nft.clar,f/2/f2bb61b234814017b6fcee06abe4cd441b44e96f
 V
 &contracts/dimensional-translation.clar,8/5/85e9cc6f282eb7f2546bacfff324b44de8c13428
+]
+-contracts/inter-dimensional-transactions.clar,3/d/3dba01badbb09edcd2900d905fe1712f96a169ca
