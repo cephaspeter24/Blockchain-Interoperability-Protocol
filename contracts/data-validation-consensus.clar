@@ -17,7 +17,7 @@
     consensus-reached: bool
 })
 
-(define-constant CONSENSUS_THRESHOLD u0.75)
+(define-constant CONSENSUS_THRESHOLD 0.75)
 
 (define-public (submit-validation (transaction-id uint) (is-valid bool))
     (let
