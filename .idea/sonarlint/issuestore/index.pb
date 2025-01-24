@@ -13,3 +13,5 @@ T
 $tests/dimensional-bridge-nft.test.ts,b/9/b92a3f9026ac28d85bc751a4bb6af863c1be1a07
 U
 %tests/dimensional-translation.test.ts,3/9/39c44de6e1fcd0aed46bea8a0dc539a50e8a7088
+\
+,tests/inter-dimensional-transactions.test.ts,0/a/0a7e9398fec70a23c3d7bcb7844f79e29974b44b
