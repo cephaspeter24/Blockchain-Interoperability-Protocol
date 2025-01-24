@@ -9,3 +9,5 @@ V
 &contracts/dimensional-translation.clar,8/5/85e9cc6f282eb7f2546bacfff324b44de8c13428
 ]
 -contracts/inter-dimensional-transactions.clar,3/d/3dba01badbb09edcd2900d905fe1712f96a169ca
+T
+$tests/dimensional-bridge-nft.test.ts,b/9/b92a3f9026ac28d85bc751a4bb6af863c1be1a07
